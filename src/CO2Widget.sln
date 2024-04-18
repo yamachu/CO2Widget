@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CO2Widget", "CO2Widget\CO2Widget.csproj", "{F60EA5A9-4818-4BEF-A418-EB6DD4487BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cli", "Cli\Cli.csproj", "{B97349CC-8B4C-4C79-8BB9-8B1060B37BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F60EA5A9-4818-4BEF-A418-EB6DD4487BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F60EA5A9-4818-4BEF-A418-EB6DD4487BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F60EA5A9-4818-4BEF-A418-EB6DD4487BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97349CC-8B4C-4C79-8BB9-8B1060B37BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97349CC-8B4C-4C79-8BB9-8B1060B37BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97349CC-8B4C-4C79-8BB9-8B1060B37BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97349CC-8B4C-4C79-8BB9-8B1060B37BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
